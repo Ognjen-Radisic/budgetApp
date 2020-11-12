@@ -1,7 +1,6 @@
 # Budget Application
 
 A visual representation of an application made with Node.js, for monthly budgeting income and expenses.
-Check it out LIVE: https://budget-application-2020.netlify.app/
 
 ![budgetappGif](https://user-images.githubusercontent.com/59142427/97353972-03549280-1895-11eb-98d3-6c93327642d6.gif)
 
